@@ -31,3 +31,28 @@
     top: 80px;
     left: 190px;
 }
+
+.nav {
+    margin: 10px 10px 0 0;
+    position: absolute;
+    background: none;
+    height: auto;
+    width: unset;
+    border: none;
+    top: 5px;
+    left: 700px;
+}
+
+.nav_link1{
+    background: #147DEE;
+    color: white;
+    padding: 5px;
+    border-radius: 3px;
+}
+
+.nav_link2{
+    background: #147DEE;
+    color: white;
+    padding: 5px;
+    border-radius: 3px;
+}
